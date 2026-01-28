@@ -15,6 +15,18 @@ I enjoy **learning new technologies**, solving problems with code, and exploring
 
 ---
 
+## 🎓 Certifications
+
+- **Data Visualisation | TATA | Forage 2026**  
+
+- **Data Analytics Simulation | Deloitte | Forage 2026**  
+
+- **GenAI Analytics Simulation | TATA | Forage 2026**  
+
+- **Microsoft AI Skills Challenge | Microsoft Learning 2024**  
+
+---
+
 ## 💻 Projects & Experience
 - Completed hands-on **course projects** to practice and improve my skills.  
   One of these is the **Vehicle-Parking-App**, a web-based application for managing parking slots with real-time updates.  
